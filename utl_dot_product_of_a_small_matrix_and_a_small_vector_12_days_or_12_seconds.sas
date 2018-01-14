@@ -25,8 +25,8 @@ INPUT
   MATRIX            VECTOR    |    RULES
 SD1.HAV1ST        SD1.HAV2ND  |    =====
                               |                  WANT (dataset)
-   M1    M2         O         |
-                              |    3*1 + 7*1 =     10
+   M1    M2                   |
+                              |    3*1 + 7*5 =     38
     3     7  dot    1         |    1*1 * 8*5 =     41
     1     8         5         |    1*1 + 4*5 =     21
     1     4                   |
